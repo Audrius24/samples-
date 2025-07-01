@@ -11,6 +11,8 @@ dependencies = [
     "langchain-community>=0.3.26",
     "langchain-openai>=0.3.25",
     "langchain-text-splitters>=0.3.8",
+    "openai>=1.91.0",
+    "openai-agents>=0.1.0",
     "protobuf>=6.31.1",
     "streamlit>=1.46.0",
 ]
